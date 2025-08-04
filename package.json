@@ -9,7 +9,7 @@
     "restart": "pm2 restart DARKZONE-MD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "https://github.com/Dark-Xploit/Baileys/archive/refs/tags/v2.0.5.tar.gz",
+    "@whiskeysockets/baileys": "github:EdderBot02/bail",
     "@rodrigogs/baileys-store" : "^1.0.1",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@dark-yasiya/yt-dl.js": "1.0.5",
