@@ -111,10 +111,13 @@
         <img alt="Deploy From New Repo" src="https://img.shields.io/badge/Deploy-New%20Version-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
+    <td>
+      <a href="https://erfan-vps.onrender.com" target="_blank">
+        <img alt="FREE VPS" src="https://img.shields.io/badge/FREE-VPS-FFA500?style=for-the-badge&logo=serverless&logoColor=white&labelColor=000000"/>
+      </a>
+    </td>
   </tr>
 </table>  
-
-
 
 <hr>
 <p align="center"><i>✨ Keep your bot updated regularly to enjoy the latest features and patches.</i></p>
