@@ -62,7 +62,7 @@
 
 > **2. PAIR CODE SESSION ID**
 
-<a href='https://a32-33749bdee362.herokuapp.com/' target="_blank">
+<a href='https://erfan-pair-site-bc04b1a802bf.herokuapp.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
