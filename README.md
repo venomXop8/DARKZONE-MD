@@ -55,7 +55,7 @@
 
 > **1. PAIR CODE SESSION ID**
 
-<a href='https://irfan-pairs.onrender.com/' target="_blank">
+<a href='https://erfan-pair-site-bc04b1a802bf.herokuapp.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
@@ -80,7 +80,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://erfan-vps.onrender.com" target="_blank"><img src="https://img.shields.io/badge/FREE-VPS-FFA500?style=for-the-badge&logo=serverless&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://vps-site-f10a01408752.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/FREE-VPS-FFA500?style=for-the-badge&logo=serverless&logoColor=white&labelColor=000000"/></a></td>
       <td><a href="https://dashboard.heroku.com/new?template=https://github.com/ERFAN-Md/DARKZONE-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
     </tr>
     <tr>
