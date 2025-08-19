@@ -8,7 +8,7 @@
 </div>
 
 <!-- Glowing CTA Button -->
-<a href="https://github.com/DARKZONE-MD/DARKZONE-MD">
+<a href="https://github.com/ERFAN-Md/DARKZONE-MD">
   <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=2500&pause=1000&color=FF9D00&background=FFFFFF00&center=true&vCenter=true&width=500&repeat=true&lines=%F0%9F%94%A5+FORK+%F0%9F%8D%B4+%26+STAR+%F0%9F%8C%9F+TO+SUPPORT+%F0%9F%94%A5" alt="CTA">
 </a>
 
@@ -16,7 +16,7 @@
 ```
 ---
 
-> **CURRENT BOT VERSION ➜ `4.6.1 ⚡`**
+> **CURRENT BOT VERSION ➜ `4.6.2 ⚡`**
 ---
 
 
@@ -24,11 +24,11 @@
 
 
   <p align="center">
-<a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/DARKZONE-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/DARKZONE-MD/DARKZONE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DARKZONE-MD/DARKZONE-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/DARKZONE-MD/DARKZONE-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DARKZONE-MD/DARKZONE-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/DARKZONE-MD/DARKZONE-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/DARKZONE-MD/DARKZONE-BOT?style=flat-square&color=green"></a>
-<a href="https://github.com/DARKZONE-MD/DARKZONE-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/ERFAN-Md?color=blue&style=flat-square"></a>
+<a href="https://github.com/ERFAN-Md/DARKZONE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ERFAN-Md/DARKZONE-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/ERFAN-Md/DARKZONE-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ERFAN-Md/DARKZONE-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/ERFAN-Md/DARKZONE-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/DARKZONE-MD/DARKZONE-BOT?style=flat-square&color=green"></a>
+<a href="https://github.com/ERFAN-Md/DARKZONE-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=30&pause=1000&color=5865F2&center=true&width=800&height=80&lines=MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ERFAN+AHMAD" alt="Bot Intro">
