@@ -1,1 +1,235 @@
-eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('2 2n=y(\'../2n\');2{2i}=y(\'../3U\');2 2f=y(\'3T-3S\');2 R=y(\'R\');2 9=y(\'9\');2 U=y(\'U\');2{2m}=y(\'3R\');2 1q=y(\'1q\');2 1G=1q.3Q(2m);2 23={2k:\'J://1l.3P.15/1l/Q/3O\',1p:3N.3M.3L||\'20\',2h 22(x){2 2j=3K 3J({1p:2l.1p,j:x});2 j=`${2l.2k}?${2j.3I()}`;2{13}=3 R.1g(j,{3H:3G,1f:{\'3F-3E\':\'1e/5.0\',3D:\'3C/3B\'}});b 13}};2i({3A:"4",3z:["p","3y"],3x:"🎥",3w:"1r 4 f 24",3v:"Q",3u:".4 <3t 1H j>",C:3s},2h(D,m,B,{f,q,8})=>{h{7(!q)b 3 8("❌ 3r 4 3q 3p 3o E Q?");r x=\'\';r 1n=\'\';r 1o=\'\';7(q.2g(\'3n://\')||q.2g(\'J://\')){x=q}1i{2{F}=3 2f(q);7(!F||F.1I===0){b 3 8("❌ 3m F 3l!")}x=F[0].j;1n=F[0].k;1o=F[0].3k}h{2 2e=(x.2c(/(?:2b\\.2a\\/|v=)([a-29-28-27-]{11})/)||[])[1];2 16=1o||(2e?`J:2 2d=1n||q;7(16){3 D.I(f,{3j:{j:16},H:`*${2d}*\\3i...`},{G:B})}}g(e){t.6(\'[z] 16 6:\',e?.l||e)}r 25=x.2c(/(?:J?:\\/\\/)?(?:2b\\.2a\\/|(?:3h\\.|m\\.)?1d\\.15\\/(?:3g\\?v=|v\\/|3f\\/|3e\\/|3d\\?3c=)?)([a-29-28-27-]{11})/3b);7(!25){b 3 8("❌ 3a X 39 a 38 24 37!")}r S=\'\';r k=\'\';h{2 V=3 23.22(x);7(V?.36&&V?.1m?.21){S=V.1m.21;k=V.1m.k||\'4\'}1i{b 3 8("❌ 12 E 1Z 4 f Z 1Y.")}}g(e){t.6(\'[z] 20 1l 6:\',e?.l||e);b 3 8("❌ 12 E 1Z 4 f Z 1Y.")}2 C=`${k}.p`;h{3 D.I(f,{4:{j:S},N:\'4/p\',M:C,H:`*${k}*\\n\\n>*35 34 33-32 31*`},{G:B});b}g(1X){t.30(\'[4.2Z] 2Y O f 2X K:\',1X.l)}2 T=U.1k(2W,\'../2V\');7(!9.L(T))9.2U(T);2 o=U.1k(T,`${1W.1V()}.p`);2 u=U.1k(T,`2T${1W.1V()}.p`);r w;r 1h=2S;h{2 14=3 R.1g(S,{1f:{\'1S-1R\':\'1e/5.0 (1Q 1P 10.0; 1O; 1N)\',\'1M\':\'J://1d.15/\'},1L:\'1K\'});w=1J.f(14.13)}g(1j){7(1j.1U&&1j.1U.2R===2Q){1h=2P}1i{b 3 8("❌ 12 E Q Z 4 A.")}}7(1h){r 1T=S.2O(/(2N|s)\\d+/,\'2M\');h{2 14=3 R.1g(1T,{1f:{\'1S-1R\':\'1e/5.0 (1Q 1P 10.0; 1O; 1N)\',\'1M\':\'J://1d.15/\'},1L:\'1K\'});w=1J.f(14.13)}g(2L){b 3 8("❌ 12 E Q Z 4 A f 2K 2J.")}}7(!w||w.1I<P){b 3 8("❌ 2I A X 2H 1H 1a 2G.")}9.2F(o,w);h{3 1G(`2E-i"${o}"-c:v 2D-c:a 2C-2B 2A-2z 26-2y+2x"${u}"`);7(!9.L(u)){b 3 8("❌ 2w A 1E.")}2 1F=9.1D(u);2 Y=1C*P*P;7(1F.1A>Y){b 3 8("❌ 1z X 1a 1y E O 1x 1w.")}h{3 D.I(f,{4:{j:u},N:\'4/p\',M:C,H:`*${k}*`},{G:B})}g(1c){t.6(\'[z] O j K, 19 w:\',1c?.l||1c);2 W=9.1u(u);3 D.I(f,{4:W,N:\'4/p\',M:C,H:`*${k}*`},{G:B})}}g(1b){t.6(\'[z] 2v K, 19 1v A:\',1b?.l||1b);h{7(!9.L(o)){b 3 8("❌ 2u A 1E.")}2 1B=9.1D(o);2 Y=1C*P*P;7(1B.1A>Y){b 3 8("❌ 1z X 1a 1y E O 1x 1w.")}h{3 D.I(f,{4:{j:o},N:\'4/p\',M:C,H:`*${k}*`},{G:B})}g(18){t.6(\'[z] O 1v j K, 19 w:\',18?.l||18);2 W=9.1u(o);3 D.I(f,{4:W,N:\'4/p\',M:C,H:`*${k}*`},{G:B})}}g(6){b 3 8("❌ 1s 2t 4 A.")}}2s(()=>{h{7(9.L(o))9.1t(o);7(9.L(u))9.1t(u)}g(17){t.6(\'[z] 2r 6:\',17?.l||17)}},2q)}g(6){t.6(\'[z] 2p 1s:\',6?.l||6);3 8(`❌1r K:${6?.l||\'2o 6\'}`)}});',62,243,'||const|await|video||error|if|reply|fs||return||||from|catch|try||url|title|message|||tempFile|mp4||let||console|convertedFile||buffer|videoUrl|require|VIDEO|file|mek|filename|conn|to|videos|quoted|caption|sendMessage|https|failed|existsSync|fileName|mimetype|send|1024|download|axios|videoDownloadUrl|tempDir|path|meta|videoBuffer|is|maxSize|the|||Failed|data|videoRes|com|thumb|cleanupErr|sendErr2|trying|too|conversionError|sendErr|youtube|Mozilla|headers|get|download403|else|err|join|api|result|videoTitle|videoThumbnail|apikey|util|Download|Error|unlinkSync|readFileSync|original|WhatsApp|on|large|Video|size|origStats|62|statSync|missing|stats|execPromise|or|length|Buffer|arraybuffer|responseType|Referer|x64|Win64|NT|Windows|Agent|User|altUrl|response|now|Date|directSendErr|API|fetch|prince|download_url|fetchMeta|princeVideoApi|YouTube|urls||9_|Z0|zA|be|youtu|match|captionTitle|ytId|yts|startsWith|async|cmd|params|base|this|exec|config|Unknown|Command|3000|cleanup|setTimeout|processing|Temp|conversion|Converted|faststart|movflags|crf|veryfast|preset|aac|libx264|ffmpeg|writeFileSync|small|empty|Downloaded|CDN|alternate|err2|s5|cdn|replace|true|403|status|false|converted_|mkdirSync|temp|__dirname|URL|Direct|js|log|baby|MD|DARKZONE|IS|THIS|success|link|valid|not|This|gi|list|playlist|shorts|embed|watch|www|nDownloading|image|thumbnail|found|No|http|want|you|do|What|__filename|query|use|category|desc|react|song|alias|pattern|json|application|accept|agent|user|20000|timeout|toString|URLSearchParams|new|PRINCE_API_KEY|env|process|ytmp4|princetechn|promisify|child_process|search|yt|command'.split('|'),0,{}))
+const config = require('../config');
+const { cmd } = require('../command');
+const yts = require('yt-search');
+const axios = require('axios');
+const fs = require('fs');
+const path = require('path');
+const { exec } = require('child_process');
+const util = require('util');
+const execPromise = util.promisify(exec);
+
+const princeVideoApi = {
+    base: 'https://api.princetechn.com/api/download/ytmp4',
+    apikey: process.env.PRINCE_API_KEY || 'prince',
+    async fetchMeta(videoUrl) {
+        const params = new URLSearchParams({ apikey: this.apikey, url: videoUrl });
+        const url = `${this.base}?${params.toString()}`;
+        const { data } = await axios.get(url, { timeout: 20000, headers: { 'user-agent': 'Mozilla/5.0', accept: 'application/json' } });
+        return data;
+    }
+};
+
+cmd({
+    pattern: "video",
+    alias: ["mp4", "song"],
+    react: "🎥",
+    desc: "Download video from YouTube",
+    category: "download",
+    use: ".video <query or url>",
+    filename: __filename
+}, async (conn, m, mek, { from, q, reply }) => {
+    try {
+        if (!q) return await reply("❌ What video do you want to download?");
+
+        let videoUrl = '';
+        let videoTitle = '';
+        let videoThumbnail = '';
+        
+        // Determine if input is a YouTube link
+        if (q.startsWith('http://') || q.startsWith('https://')) {
+            videoUrl = q;
+        } else {
+            // Search YouTube for the video
+            const { videos } = await yts(q);
+            if (!videos || videos.length === 0) {
+                return await reply("❌ No videos found!");
+            }
+            videoUrl = videos[0].url;
+            videoTitle = videos[0].title;
+            videoThumbnail = videos[0].thumbnail;
+        }
+
+        // Send thumbnail immediately
+        try {
+            const ytId = (videoUrl.match(/(?:youtu\.be\/|v=)([a-zA-Z0-9_-]{11})/) || [])[1];
+            const thumb = videoThumbnail || (ytId ? `https://i.ytimg.com/vi/${ytId}/sddefault.jpg` : undefined);
+            const captionTitle = videoTitle || q;
+            if (thumb) {
+                await conn.sendMessage(from, {
+                    image: { url: thumb },
+                    caption: `*${captionTitle}*\nDownloading...`
+                }, { quoted: mek });
+            }
+        } catch (e) { 
+            console.error('[VIDEO] thumb error:', e?.message || e); 
+        }
+
+        // Validate YouTube URL
+        let urls = videoUrl.match(/(?:https?:\/\/)?(?:youtu\.be\/|(?:www\.|m\.)?youtube\.com\/(?:watch\?v=|v\/|embed\/|shorts\/|playlist\?list=)?)([a-zA-Z0-9_-]{11})/gi);
+        if (!urls) {
+            return await reply("❌ This is not a valid YouTube link!");
+        }
+
+        // PrinceTech video API
+        let videoDownloadUrl = '';
+        let title = '';
+        try {
+            const meta = await princeVideoApi.fetchMeta(videoUrl);
+            if (meta?.success && meta?.result?.download_url) {
+                videoDownloadUrl = meta.result.download_url;
+                title = meta.result.title || 'video';
+            } else {
+                return await reply("❌ Failed to fetch video from the API.");
+            }
+        } catch (e) {
+            console.error('[VIDEO] prince api error:', e?.message || e);
+            return await reply("❌ Failed to fetch video from the API.");
+        }
+        
+        const filename = `${title}.mp4`;
+
+        // Try sending the video directly from the remote URL
+        try {
+            await conn.sendMessage(from, {
+                video: { url: videoDownloadUrl },
+                mimetype: 'video/mp4',
+                fileName: filename,
+                caption: `*${title}*\n\n> *THIS IS DARKZONE-MD baby*`
+            }, { quoted: mek });
+            return;
+        } catch (directSendErr) {
+            console.log('[video.js] Direct send from URL failed:', directSendErr.message);
+        }
+
+        // If direct send fails, fallback to downloading and converting
+        const tempDir = path.join(__dirname, '../temp');
+        if (!fs.existsSync(tempDir)) fs.mkdirSync(tempDir);
+        const tempFile = path.join(tempDir, `${Date.now()}.mp4`);
+        const convertedFile = path.join(tempDir, `converted_${Date.now()}.mp4`);
+        
+        let buffer;
+        let download403 = false;
+        try {
+            const videoRes = await axios.get(videoDownloadUrl, {
+                headers: {
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
+                    'Referer': 'https://youtube.com/'
+                },
+                responseType: 'arraybuffer'
+            });
+            buffer = Buffer.from(videoRes.data);
+        } catch (err) {
+            if (err.response && err.response.status === 403) {
+                download403 = true;
+            } else {
+                return await reply("❌ Failed to download the video file.");
+            }
+        }
+        
+        // Fallback: try another URL if 403
+        if (download403) {
+            let altUrl = videoDownloadUrl.replace(/(cdn|s)\d+/, 's5');
+            try {
+                const videoRes = await axios.get(altUrl, {
+                    headers: {
+                        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
+                        'Referer': 'https://youtube.com/'
+                    },
+                    responseType: 'arraybuffer'
+                });
+                buffer = Buffer.from(videoRes.data);
+            } catch (err2) {
+                return await reply("❌ Failed to download the video file from alternate CDN.");
+            }
+        }
+        
+        if (!buffer || buffer.length < 1024) {
+            return await reply("❌ Downloaded file is empty or too small.");
+        }
+        
+        fs.writeFileSync(tempFile, buffer);
+
+        try {
+            await execPromise(`ffmpeg -i "${tempFile}" -c:v libx264 -c:a aac -preset veryfast -crf 26 -movflags +faststart "${convertedFile}"`);
+            
+            if (!fs.existsSync(convertedFile)) {
+                return await reply("❌ Converted file missing.");
+            }
+            
+            const stats = fs.statSync(convertedFile);
+            const maxSize = 62 * 1024 * 1024; // 62MB
+            if (stats.size > maxSize) {
+                return await reply("❌ Video is too large to send on WhatsApp.");
+            }
+            
+            // Try sending the converted video
+            try {
+                await conn.sendMessage(from, {
+                    video: { url: convertedFile },
+                    mimetype: 'video/mp4',
+                    fileName: filename,
+                    caption: `*${title}*`
+                }, { quoted: mek });
+            } catch (sendErr) {
+                console.error('[VIDEO] send url failed, trying buffer:', sendErr?.message || sendErr);
+                const videoBuffer = fs.readFileSync(convertedFile);
+                await conn.sendMessage(from, {
+                    video: videoBuffer,
+                    mimetype: 'video/mp4',
+                    fileName: filename,
+                    caption: `*${title}*`
+                }, { quoted: mek });
+            }
+            
+        } catch (conversionError) {
+            console.error('[VIDEO] conversion failed, trying original file:', conversionError?.message || conversionError);
+            
+            try {
+                if (!fs.existsSync(tempFile)) {
+                    return await reply("❌ Temp file missing.");
+                }
+                
+                const origStats = fs.statSync(tempFile);
+                const maxSize = 62 * 1024 * 1024; // 62MB
+                if (origStats.size > maxSize) {
+                    return await reply("❌ Video is too large to send on WhatsApp.");
+                }
+                
+                // Try sending the original file
+                try {
+                    await conn.sendMessage(from, {
+                        video: { url: tempFile },
+                        mimetype: 'video/mp4',
+                        fileName: filename,
+                        caption: `*${title}*`
+                    }, { quoted: mek });
+                } catch (sendErr2) {
+                    console.error('[VIDEO] send original url failed, trying buffer:', sendErr2?.message || sendErr2);
+                    const videoBuffer = fs.readFileSync(tempFile);
+                    await conn.sendMessage(from, {
+                        video: videoBuffer,
+                        mimetype: 'video/mp4',
+                        fileName: filename,
+                        caption: `*${title}*`
+                    }, { quoted: mek });
+                }
+            } catch (error) {
+                return await reply("❌ Error processing video file.");
+            }
+        }
+
+        // Clean up temp files
+        setTimeout(() => {
+            try {
+                if (fs.existsSync(tempFile)) fs.unlinkSync(tempFile);
+                if (fs.existsSync(convertedFile)) fs.unlinkSync(convertedFile);
+            } catch (cleanupErr) {
+                console.error('[VIDEO] cleanup error:', cleanupErr?.message || cleanupErr);
+            }
+        }, 3000);
+
+    } catch (error) {
+        console.error('[VIDEO] Command Error:', error?.message || error);
+        await reply(`❌ Download failed: ${error?.message || 'Unknown error'}`);
+    }
+});
