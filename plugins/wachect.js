@@ -72,7 +72,7 @@ cmd({
                 
                 resultText += `📅 *Account Created:* ${creationYear}\n`;
                 resultText += `🔵 *Active Status:* ${isActive ? 'Currently Active' : 'Not Active'}\n`;
-                resultText += `🚫 *Ban Status:* ${isBanned ? 'Account Banned' : 'Not Banned'}\n`;
+                resultText += `🚫 *Ban Status:* ${isBanned ? 'Account Banned' : 'use app'}\n`;
                 resultText += `📨 *OTP Receivable:* ${canReceiveOTP ? 'Can Receive OTP' : 'Cannot Receive OTP'}\n`;
                 
                 // Additional simulated data
